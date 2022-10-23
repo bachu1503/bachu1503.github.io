@@ -12,3 +12,21 @@ output:
 What if I add text here???
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+## Subsection
+And additional text
+
+
+## Links to other websites
+
+* [Google](https://www.google.com/?client=safari)
+* [P8105](https://p8105.com)
+
+## Local Image
+
+
+
+
+
+
