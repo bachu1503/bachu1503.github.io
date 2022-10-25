@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: flatly
 ---
 
 # This is my awesome website
@@ -16,19 +15,25 @@ What if I add text here???
 
 ## Subsection
 And additional text
-
-
-## Links to other websites
-
-* [Google](https://www.google.com/?client=safari)
-* [P8105](https://p8105.com)
-
-## Local Image
 ```{r}
+rnorm(10)
 ```
 
 
 
+# Links to other websites
+
+* [Google](https://www.google.com/?client=safari)
+* [P8105](https://p8105.com)
+
+# Local Image
+
+Here's a dog picture: 
+![](images/dog.jpg)
+
+
+# Link to page within the site
+[About me](about.html)
 
 
 
