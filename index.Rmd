@@ -4,10 +4,10 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: flatly
 ---
 
-# This is Jeff's awesome website
+# This is my awesome website
 
 What if I add text here???
 
@@ -25,7 +25,6 @@ And additional text
 
 ## Local Image
 ```{r}
-rmarkdown::render_site()
 ```
 
 
