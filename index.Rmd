@@ -31,6 +31,7 @@ rnorm(10)
 Here's a dog picture: 
 ![](images/dog.jpg)
 
+<img src="images/dog.jpg" style="width:75%">
 
 # Link to page within the site
 [About me](about.html)

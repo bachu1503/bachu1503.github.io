@@ -6,11 +6,11 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Plotly"
-    - href: plotly.html
+      href: plotly.html
     - text: "Dashboard"
-    - href: dashboard.html
+      href: dashboard.html
     - text: "Fonts"
-    - href: https://fontawesome.com/icons
+      href: https://fontawesome.com/icons
     - icon: fa-envelope fa-lg
       href: mailto:<barryprchiu@gmail.com>
     - icon: fa-github fa-lg
@@ -18,3 +18,7 @@ navbar:
 output:
   html_document:
     theme: flatly
+    
+    
+    
+    
