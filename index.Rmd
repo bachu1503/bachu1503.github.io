@@ -24,6 +24,9 @@ And additional text
 * [P8105](https://p8105.com)
 
 ## Local Image
+```{r}
+rmarkdown::render_site()
+```
 
 
 
